@@ -1,0 +1,3 @@
+API_TOKEN = 'xoxb-370604380612-371878447127-NY5YXF1E6ck0R6uvq9b5P7j5'
+DEFAULT_REPLY = '今日も一日お疲れ様:relaxed:'
+PLUGINS = ['plugins']
